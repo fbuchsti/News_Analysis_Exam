@@ -1,5 +1,5 @@
 # News Analysis Exam
-This repository contains my exam project for the DS821 News and Market Sentiment Analysis course.
+This repository contains my exam project for the DS821 News and Market Sentiment Analytics course.
 
 ## Contents
 - `FakeNewsDetection.ipynb`: Full solution with code, explanations, and results
